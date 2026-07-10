@@ -133,7 +133,7 @@ graph TD
 
 **Use the following demo credentials to explore different user roles.**
 
-**(Scope: Road Department in Ward 1: Civil Lines. File a "Road Damage" complaint in Ward 1 as Citizen to test this workflow!)
+(Scope: Road Department in Ward 1: Civil Lines. File a "Road Damage" complaint in Ward 1 as Citizen to test this workflow!) 
 
 *   **Administrator (Municipal Officer)**:
     *   **Email**: `admin@fixmycity.gov`
