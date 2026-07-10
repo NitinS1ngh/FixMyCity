@@ -131,8 +131,9 @@ graph TD
 
 ## 👥 Demo Logins
 
-Use the following credentials to inspect different role views:
-(Scope: Road Department in Ward 1: Civil Lines. File a "Road Damage" complaint in Ward 1 as Citizen to test this workflow!)
+**Use the following demo credentials to explore different user roles.**
+
+**Demo Workflow:** File a **"Road Damage"** complaint as a **Citizen** in **Ward 1 (Civil Lines)** to test the complete complaint resolution workflow.
 
 *   **Administrator (Municipal Officer)**:
     *   **Email**: `admin@fixmycity.gov`
