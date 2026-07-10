@@ -49,6 +49,10 @@ app.use('/api/analytics', require('./routes/analytics'));
 app.use('/api/public', require('./routes/public'));
 app.use('/api/notifications', require('./routes/notification'));
 
+app.get("/", (req, res) => {
+  res.send("🚀 FixMyCity Backend is running successfully!");
+});
+
 // Base health check
 app.get('/health', (req, res) => {
   res.status(200).json({ status: 'OK', message: 'FixMyCity API is running smoothly' });
