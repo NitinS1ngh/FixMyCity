@@ -5,7 +5,7 @@ FixMyCity is a MERN Stack municipal grievance redressal portal designed to bridg
 The application is localized specifically for the **Prayagraj Municipal Corporation (PMC), Uttar Pradesh, India**, dividing the city into 6 administrative wards and restricting all reporting to verified local boundaries.
 
 ## 🔗 Live
-- Frontend: [https://fix-my-city-woad.vercel.app/](https://fix-my-city-woad.vercel.app/)
+- Frontend: [https://fix-my-city-woad.vercel.app](https://fix-my-city-woad.vercel.app)
 - Backend API: [https://fixmycity-eyyn.onrender.com](https://fixmycity-eyyn.onrender.com)
 
 ## Screenshots
