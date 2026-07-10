@@ -8,6 +8,12 @@ The application is localized specifically for the **Prayagraj Municipal Corporat
 - Frontend: [https://fix-my-city-woad.vercel.app/](https://fix-my-city-woad.vercel.app/)
 - Backend API: [https://fixmycity-eyyn.onrender.com](https://fixmycity-eyyn.onrender.com)
 
+## Screenshots
+<img width="1470" height="834" alt="Screenshot 2026-07-11 at 1 08 33 AM" src="https://github.com/user-attachments/assets/aa6f8de4-9282-41de-9be7-986517d23aa4" />
+<img width="1470" height="833" alt="Screenshot 2026-07-11 at 1 08 00 AM" src="https://github.com/user-attachments/assets/09c3af17-9789-4fa4-8431-ca047d51332b" />
+<img width="1470" height="833" alt="Screenshot 2026-07-11 at 1 00 05 AM" src="https://github.com/user-attachments/assets/91967df5-8043-44a2-bdda-220b7eb6a1af" />
+
+
 ---
 
 ## 🚀 Key Features
