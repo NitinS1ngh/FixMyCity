@@ -63,9 +63,9 @@ PORT=5001
 NODE_ENV=production
 MONGO_URI=your_mongodb_atlas_connection_string
 JWT_SECRET=your_jwt_signing_token
-CLOUDINARY_CLOUD_NAME=duxcistwd
-CLOUDINARY_API_KEY=899181675713266
-CLOUDINARY_API_SECRET=t6G4v4Q7i83J7LGFzFYcRgA8ttU
+CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+CLOUDINARY_API_KEY=your_cloudinary_API_key
+CLOUDINARY_API_SECRET=your_cloudinary_API_secret
 ```
 
 ### 2. Backend Setup
